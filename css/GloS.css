@@ -1,0 +1,17 @@
+﻿body{
+    font-family:'Ubuntu';
+}
+
+h4{
+    color:#db9130;
+}
+
+p{
+    color:#454d3e;
+}
+.jumbotron {
+    background: url("scom.jpg");
+    background-size: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
